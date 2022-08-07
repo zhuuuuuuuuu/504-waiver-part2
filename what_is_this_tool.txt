@@ -1,0 +1,6 @@
+MI Symptoms is a symptom survey to be taken daily by Mchign residents
+and employees, for early detection of COVID-like illnesses by Michigan public
+health professionals and employers. This symptom survey may also help us better
+undestand what influences the spread of the virus. The survey will inform you
+if your symptoms are similar to COVID-19 and provides a method for Michiganders
+to check their daily wellness during the pandemc.
